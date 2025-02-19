@@ -33,11 +33,6 @@ ALLOWED_HOSTS = ['192.168.90.62',
 MEDIA_URL = '/media/'
 MEDIA_ROOT = BASE_DIR / 'media'
 
-import os
-
-BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-
-os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = os.path.join(BASE_DIR, "Health_Service_App", "astral-depth-450915-u1-e0811493dff6.json")
 
 
 INSTALLED_APPS = [
@@ -87,7 +82,6 @@ TEMPLATES = [
 
 WSGI_APPLICATION = 'Health_Service_App.wsgi.application'
 
-ANTHROPIC_API_KEY = "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"
 
 from pathlib import Path
 
