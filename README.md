@@ -1,3 +1,5 @@
+#Medi_Chat
+
 An AI model to analyze your scans :)
 
 Description
@@ -28,5 +30,6 @@ For GPU (CUDA 11.8+)
 pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
 4. Install Additional Dependencies
 pip install django-core-files-storage python-dotenv
+
 Contributor
-1. Miraj Adhikari, Github: https://github.com/MirajAdhikari
+1. Mystical-serpent, Github: https://github.com/Mystical-serpent
