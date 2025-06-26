@@ -66,7 +66,7 @@ Now you can access the application in your browser at `http://localhost:8000/`.
 
 ## Contributions
 
-1. Mystical-serpent, Github: https://github.com/Mystical-serpent
+1. Sajal, Github: https://github.com/DWSATLVB
 
 ### To contribute:
 
